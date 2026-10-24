@@ -1,3 +1,4 @@
+# WARNING: This repository is no longer maintained. Verify information provided here on your own.
 # GPD Win Max 2 Wiki/Guide
 A list of things useful to owners of the GPD Win Max 2</br>
 Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasing a GPD product for the first time.
